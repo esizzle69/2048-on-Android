@@ -1,11 +1,26 @@
-3 Mini board games on Android: 2048, sliding tiles, matching tiles
-![Screenshot_1582305373](https://user-images.githubusercontent.com/32601310/75058454-04812480-54a9-11ea-8eca-f86e555097e0.png)
-![Screenshot_1582305269](https://user-images.githubusercontent.com/32601310/75058425-fc28e980-54a8-11ea-9730-bb5965432567.png)
-![Screenshot_1582305283](https://user-images.githubusercontent.com/32601310/75058432-fdf2ad00-54a8-11ea-8362-d40b99065b34.png)
-![Screenshot_1582305298](https://user-images.githubusercontent.com/32601310/75058437-00550700-54a9-11ea-9afd-e56242fd40b0.png)
-![Screenshot_1582305335](https://user-images.githubusercontent.com/32601310/75058442-00ed9d80-54a9-11ea-88fd-8876dc7f983e.png)
-![Screenshot_1582305354](https://user-images.githubusercontent.com/32601310/75058449-03e88e00-54a9-11ea-9954-d810cce9fc73.png)
-![Screenshot_1582305356](https://user-images.githubusercontent.com/32601310/75058452-03e88e00-54a9-11ea-8a0a-3d6b2575c48b.png)
+<body>
+    <h1>3 Mini board games on Android: 2048, sliding tiles, matching tiles</h1>
+<div>
+        <div class="inline-block">
+        <img src="https://user-images.githubusercontent.com/32601310/75058454-04812480-54a9-11ea-8eca-f86e555097e0.png" height="284" width="160">
+        </div>
+        <div class="inline-block">
+        <img src="https://user-images.githubusercontent.com/32601310/75058425-fc28e980-54a8-11ea-9730-bb5965432567.png" height="284" width="160">
+        </div>
+        <div class="inline-block">
+        <img src="https://user-images.githubusercontent.com/32601310/75058437-00550700-54a9-11ea-9afd-e56242fd40b0.png" height="284" width="160">
+        </div>
+        <div class="inline-block">
+        <img src="https://user-images.githubusercontent.com/32601310/75058442-00ed9d80-54a9-11ea-88fd-8876dc7f983e.png" height="284" width="160">
+        </div>
+        <div class="inline-block">
+        <img src="https://user-images.githubusercontent.com/32601310/75058452-03e88e00-54a9-11ea-8a0a-3d6b2575c48b.png" height="284" width="160">
+        </div>
+    </div>
+
+
+
+
 
 
 Features:
@@ -72,3 +87,4 @@ Features:
             LeaderBoard: Allows the user to check the global leaderboard for this game, and his own rank and highest score.                    
             Current Score: Shows the real time current user's score.
             Animations: Scale animation is trigger if two tiles are conbined or a new tile has been created.
+</body>
