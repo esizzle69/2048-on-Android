@@ -1,26 +1,15 @@
 <body>
     <h1>3 Mini board games on Android: 2048, sliding tiles, matching tiles</h1>
-<div>
-    <div class="inline-block">
-    <img src="https://user-images.githubusercontent.com/32601310/75058454-04812480-54a9-11ea-8eca-f86e555097e0.png" height="284" width="160">
-    </div>
-    <div class="inline-block">
-    <img src="https://user-images.githubusercontent.com/32601310/75058425-fc28e980-54a8-11ea-9730-bb5965432567.png" height="284" width="160">
-    </div>
-    <div class="inline-block">
-    <img src="https://user-images.githubusercontent.com/32601310/75058437-00550700-54a9-11ea-9afd-e56242fd40b0.png" height="284" width="160">
-    </div>
-    <div class="inline-block">
-    <img src="https://user-images.githubusercontent.com/32601310/75058442-00ed9d80-54a9-11ea-88fd-8876dc7f983e.png" height="284" width="160">
-    </div>
-    <div class="inline-block">
-    <img src="https://user-images.githubusercontent.com/32601310/75058452-03e88e00-54a9-11ea-8a0a-3d6b2575c48b.png" height="284" width="160">
-    </div>
-</div>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/32601310/75058454-04812480-54a9-11ea-8eca-f86e555097e0.png" height="284" width="160">
+  <img src="https://user-images.githubusercontent.com/32601310/75058425-fc28e980-54a8-11ea-9730-bb5965432567.png" height="284" width="160">
+  <img src="https://user-images.githubusercontent.com/32601310/75058437-00550700-54a9-11ea-9afd-e56242fd40b0.png" height="284" width="160">
+  <img src="https://user-images.githubusercontent.com/32601310/75058452-03e88e00-54a9-11ea-8a0a-3d6b2575c48b.png" height="284" width="160">
+  <img src="https://user-images.githubusercontent.com/32601310/75058442-00ed9d80-54a9-11ea-88fd-8876dc7f983e.png" height="284" width="160">
+</p>
 
-Features:
-    Game launch centre:
-    
+    Features:
+        Game launch centre:
         The game launch centre uses Firebase login system, allows the users to:
             Sign up/Sign in
                 - A user has to use an valid Email address to sign up.
