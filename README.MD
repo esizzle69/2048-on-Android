@@ -20,6 +20,7 @@
 
 Features:
     Game launch centre:
+    
         The game launch centre uses Firebase login system, allows the users to:
             Sign up/Sign in
                 - A user has to use an valid Email address to sign up.
@@ -33,6 +34,7 @@ Features:
                 - Sliding Tiles
                 - Matching Tiles
                 - 2048
+                
         Related classes/activities:
             GameLaunchCentreActivity    The activity after login
             LeaderBoardActivity         An option in the GameLaunchCenteR
@@ -43,8 +45,9 @@ Features:
             LeaderBoardActivity         The leaderboard within the games
             CentreAdapter               An adapter for the game centre
             game_centre_item            A class holding the game centre items.
-            
-   Game 1: Sliding Tiles(All related classes are inside the folder **SlidingTiles**)
+         
+    Game 1: Sliding Tiles(All related classes are inside the folder **SlidingTiles**)
+   
         Main Functionaries:
             The game auto loads the last saved state when started.
             When a new game is created this will be the new saved state.
@@ -59,6 +62,7 @@ Features:
             Save Game: Allows user to save current game state.
             Auto Save: The game saves after every more user makes.
             LeaderBoard: Allows the user to check the global leaderboard for this game, and his own rank and highest score. 
+            
     Game 2: MatchinTiles(All related classes are inside the folder **MatchinTiles**)
     When 2 matching tiles are revealed they vanishes. The game is won when all tiles are gone..
          Main Functionaries:
@@ -68,6 +72,7 @@ Features:
             LeaderBoard: Allows the user to check the global leaderboard for this game, and his own rank and highest score.                    
             Current Score: Shows the real time current user's score.
             Animations: The game does an animation after the game is won and shows the user's final score.
+            
     Game 3: 2048(All related classes are inside the folder **twozerofoureight**)
     The game is lost when no adjacent tile has same numbers. The game is won when 1 tile reaches 2048.
          Main Functionaries:
