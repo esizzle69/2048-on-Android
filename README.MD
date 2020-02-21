@@ -33,8 +33,6 @@ Features:
                 - Sliding Tiles
                 - Matching Tiles
                 - 2048
-            (Bonus)Allows user to remember the last user entry by a checkbox
-
         Related classes/activities:
             GameLaunchCentreActivity    The activity after login
             LeaderBoardActivity         An option in the GameLaunchCenteR
@@ -60,8 +58,7 @@ Features:
             Load Game: Allows user to load the last saved state.
             Save Game: Allows user to save current game state.
             Auto Save: The game saves after every more user makes.
-            LeaderBoard: Allows the user to check the global leaderboard for this game, and his own rank and highest score.
-            
+            LeaderBoard: Allows the user to check the global leaderboard for this game, and his own rank and highest score. 
     Game 2: MatchinTiles(All related classes are inside the folder **MatchinTiles**)
     When 2 matching tiles are revealed they vanishes. The game is won when all tiles are gone..
          Main Functionaries:
@@ -71,7 +68,6 @@ Features:
             LeaderBoard: Allows the user to check the global leaderboard for this game, and his own rank and highest score.                    
             Current Score: Shows the real time current user's score.
             Animations: The game does an animation after the game is won and shows the user's final score.
-   
     Game 3: 2048(All related classes are inside the folder **twozerofoureight**)
     The game is lost when no adjacent tile has same numbers. The game is won when 1 tile reaches 2048.
          Main Functionaries:
