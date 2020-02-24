@@ -99,6 +99,7 @@ public class CentreAdapter extends RecyclerView.Adapter<CentreAdapter.myViewHold
                     intent =  new Intent(mContext, StartingActivityST.class);
                     break;
             }
+            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             mContext.startActivity(intent);
         }
     }
